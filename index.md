@@ -1,37 +1,95 @@
-## Welcome to GitHub Pages
+## 
 
-You can use the [editor on GitHub](https://github.com/DonCorleone92/DonCorleone92.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## <p align="center">  Howdy Nerds, Welcome to My Portfolio Website
+  
+<img src="https://user-images.githubusercontent.com/6068306/119338537-beb79b00-bcad-11eb-9433-f2694f809e96.png" width="5000px" height="250px">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  
+<div> Drop a <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> on my LinkedIn. <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abhinav-singhal-01" data-version="v1"><a class="badge-base__link LI-simple-link" href="">Abhinav Singhal</a></div> </div>
 
-### Markdown
+              
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### About Me
 
-- Bulleted
-- List
+* Myself - Abhinav Singhal. A footballer by heart and a programmer by profession.
+* I have 7+ years of experience in Software Development focussing mainly on the middleware and the backend tech stacks.
+* .....
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### My Tech Stack 🧰
 
-[Link](url) and ![Image](src)
-```
+<p align="left">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
+<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
+</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ 
 
-### Jekyll Themes
+* My primary coding language: Java
+* Earned Gold badge & 5 star at HackerRank in Python programming.
+* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://ayushirawat.com/) & make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
+* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
+* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi).
+<!--* 🏠 Hogwarts House: Griffindor-->
+<!--* If you play Call of Duty- add me: Blackhood@00-->
+<!--* I am currently learning Docker-->
+<!--* I’m currently working on my portfolio. -->
+<!-- * Ask me about anything, I'll be happy to help.-->
+<!-- -->
+<!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DonCorleone92/DonCorleone92.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+<table><tr><td valign="top" width="50%">
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### My Latest Blog Posts 🌱
+<!-- BLOG-POST-LIST:START -->
+- [What is Git and Github? | Git vs GitHub](https://ayushirawat.com/what-is-git-and-github-or-git-vs-github)
+- [Best Podcasts for Python](https://ayushirawat.com/best-podcasts-for-python)
+- [Automate Cowin Vaccine slots Availability using Python](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
+- [What is Competitive Programming | Beginners Guide](https://ayushirawat.com/what-is-competitive-programming-or-beginners-guide)
+- [Best IDE's for Python](https://ayushirawat.com/best-ides-for-python)
+<!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://ayushirawat.com/)
+</td>
+<td valign="top" width="50%">
+
+### My Latest YouTube Videos 🌱
+<!-- YOUTUBE:START -->
+- [1869. Longer Contiguous Segments of Ones than Zeros ](https://www.youtube.com/watch?v=aer6x0sTA7g)
+- [What is Git and GitHub? ](https://www.youtube.com/watch?v=nWIAc-9EFdg)
+- [How to Develop & Showcase Soft Skills ](https://www.youtube.com/watch?v=bLcjvkMTRyo)
+- [Top 5 Podcasts for Python ](https://www.youtube.com/watch?v=jAOkWehMF6E)
+- [How to Automate CoWin Vaccine Notifier using Python ](https://www.youtube.com/watch?v=HrTQqSKWClE)
+<!-- YOUTUBE:END -->
+➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
+</td>
+
+ <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+
+</details>
+
+
+ ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+
+
+[twitter]: https://twitter.com/ayushi7rawat
+[youtube]: https://youtube.com/ayushirawat
+[Hashnode]: https://ayushirawat.com
+[gmail]: https://gmail.com
+[linkedin]: https://www.linkedin.com/in/ayushi7rawat/
+[Medium]: https://medium.com/@ayushi7rawat
+[Facebook]: https://www.facebook.com/ayushi7rawat
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
